@@ -7,11 +7,11 @@ words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 url: luanpham1211.github.io
-baseurl: /
+baseurl: /diytuber.github.io
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: DIYTuber
+description: The creative youtube channel
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
