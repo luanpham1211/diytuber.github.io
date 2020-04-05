@@ -7,7 +7,7 @@ words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 url: luanpham1211.github.io
-baseurl: /diytuber.github.io
+baseurl: /diytuber.github.io/
 
 # Website info
 title: DIYTuber
