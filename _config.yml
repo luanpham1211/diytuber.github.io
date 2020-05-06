@@ -6,12 +6,12 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-url: https://diytuber.com/
+url: https://arduinologic.com/
 baseurl: /
 
 # Website info
-title: DIY Tuber Channel
-description: Welcome to DIYTuber Channel
+title: Arduino Logic
+description: Welcome to Arduino Logic
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
